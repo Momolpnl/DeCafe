@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "u837952942_muhammadmaula", "g8U!aX>W$", "u837952942_muhammadmaula");
+$conn = mysqli_connect("localhost", "root", "", "db_decafe");
 if (!$conn) {
     echo "Gagal terkoneksi";
 }

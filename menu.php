@@ -1,10 +1,10 @@
 <div class="col-lg-9 mt-2">
     <div class="card">
         <div class="card-header">
-            Home
+            Daftar Menu
         </div>
         <div class="card-body">
-            <h5 class="card-title">Home Side</h5>
+            <h5 class="card-title">Daftar Menu</h5>
             <p class="card-text">With supporting text below as a natural lead-in
                 to additional content. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 Hic perferendis eveniet cum omnis maxime, inventore soluta odit dolorem culpa quam!
