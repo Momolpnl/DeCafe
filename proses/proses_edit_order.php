@@ -6,7 +6,6 @@ $meja = (isset($_POST['meja'])) ? htmlentities($_POST['meja']) : "";
 $pelanggan = (isset($_POST['pelanggan'])) ? htmlentities($_POST['pelanggan']) : "";
 
 if (!empty($_POST['edit_order_validate'])) {
-    
         $query = mysqli_query($conn, "UPDATE tb_order SET meja='$meja',pelanggan='$pelanggan' WHERE id_order = $kode_order");
         
         if ($query) {
